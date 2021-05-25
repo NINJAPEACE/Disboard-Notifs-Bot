@@ -15,6 +15,6 @@ _Or you can copy paste the code into your project_
 **3. Fill the Data**
 ![](https://cdn.discordapp.com/attachments/778562438203047947/844875406652735488/Fill_the_data.png)
 
-**4. Run the Project and Your Counting Bot is Ready**
+**4. Run the Project and Your Bump Reminder Bot is Ready**
 
 **5. Don't forget to Follow My Account**
