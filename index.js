@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const data = require("./data.json");
+const data = require("./bump.json");
 
 client.on("ready", () => {
    console.log("Bump Reminder ready!");
