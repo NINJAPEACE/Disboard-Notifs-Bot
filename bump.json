@@ -1,4 +1,4 @@
 {
  "bumpChannel": "YOUR_BUMP_CHANNEL_ID",
- "token": "YOUR_BOT_TOKEN"
+ "botToken": "YOUR_BOT_TOKEN"
 }
