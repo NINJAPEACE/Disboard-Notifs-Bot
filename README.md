@@ -1,5 +1,4 @@
 # Disboard-Bump-Reminder
-Make your own Bump Reminder bot
 
 **1. You must star this Repository**
 ![](https://cdn.discordapp.com/attachments/778562438203047947/846551553163001876/Star_This_Bump_Repository.png)
