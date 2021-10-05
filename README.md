@@ -1,23 +1,26 @@
-# Disboard-Notifications
+# Disboard Notifs Bot
 
-This Repository is just for discord that will remind when **Disboard** bump is ready and when someone had been bump
-![]()
+This Repository is just for discord bot that will remind when **Disboard** bump is ready and when someone had been bump.
+_Package Needed: Discord.js v13_
 
-**1. You must star this Repository**
+[Invite Disboard Here](https://discordapp.com/api/oauth2/authorize?scope=bot&guild_id=772437193486499872&permissions=19473&redirectUri=https%3A%2F%2Fdisboard.org%2Fsite%2Fbot-added&state=pyo40J7YAZpc15eMhQweXDihIP7vKMQt&response_type=code&approval_prompt=auto&client_id=302050872383242240&redirect_uri=https%3A%2F%2Fdisboard.org%2Fsite%2Foauth-callback)
+
+
+# Configure the Bot
+
+**1. Star this Repository**
 ![](https://cdn.discordapp.com/attachments/778562438203047947/846551553163001876/Star_This_Bump_Repository.png)
 
 
 
-**2. Clone this Repository**
-
-_Type:_ `git clone https://github.com/NINJAPEACE/Disboard-Notifications` 
-
-_Or you can copy paste the code into your project_
+**2. Clone this Repository**<br>
+You can copy Paste this Repository into your Project or use <sub>git clone https://github.com/NINJAPEACE/Disboard-Notifs-Bot</sub> in your Project's Shell or Terminal
 ![](https://cdn.discordapp.com/attachments/778562438203047947/846554276934713404/Clone_Repository.png)
 
-**3. Fill the Data**
+**3. Fill the Data**<br>
 ![](https://cdn.discordapp.com/attachments/778562438203047947/846554276792369172/Fill_Bot_Data.png)
 
-**4. Run the Project and Your Bump Reminder Bot is Ready**
+**4. Run the Project**<br>
+If you don't know how to run a project, you can use `node index.js` in your project's shell/terminal or you can click *play* button in your project.
 
-**5. Don't forget to Follow My Account**
+**5. Your Disboard Notifs Bot is ready!**
