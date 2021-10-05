@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const client = new Discord.Client();
+const client = new Discord.Client({intents: ["GUILD", "GUILD_MESSAGES"]});
 const data = require("./bump.json");
 
 client.on("ready", () => {
@@ -20,9 +20,10 @@ setInterval(async() => {
 	}
 }, 10000)
 
-client.on("message", message => {
+client.on("messageCreate", message => {
 if (message.author.id === '302050872383242240' && message.embeds[0].description.toLowerCase().includes('bump done')) {
-	message.channel.setTopic('Last Bump Message ID: ' + message.id);
+	message.channel.setTopic('Last Bump: ' + Date.now());
+        message.channel.send({content: "Thanks for the Bump"});
    }
 });
 
