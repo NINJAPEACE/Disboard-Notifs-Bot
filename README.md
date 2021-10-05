@@ -14,9 +14,7 @@ _Package Needed: Discord.js v13_
 
 
 **2. Clone this Repository**<br>
-You can copy Paste this Repository into your Project or use:<br>
-`git clone https://github.com/NINJAPEACE/Disboard-Notifs-Bot`<br> in your Project's Shell or Terminal
-![](https://cdn.discordapp.com/attachments/778562438203047947/846554276934713404/Clone_Repository.png)<br>
+You can copy paste this Repository into your Project or use import from GitHub in your project
 
 **3. Fill the Data**<br>
 ![](https://cdn.discordapp.com/attachments/778562438203047947/846554276792369172/Fill_Bot_Data.png)<br>
