@@ -1,7 +1,7 @@
 # Disboard Notifs Bot
 
 This Repository is just for discord bot that will remind when **Disboard** bump is ready and when someone had been bump.
-_Package Needed: Discord.js v13_
+_Package Needed: Discord.js v13, Nodejs 16+_
 
 [Invite Disboard Here](https://discordapp.com/api/oauth2/authorize?scope=bot&guild_id=772437193486499872&permissions=19473&redirectUri=https%3A%2F%2Fdisboard.org%2Fsite%2Fbot-added&state=pyo40J7YAZpc15eMhQweXDihIP7vKMQt&response_type=code&approval_prompt=auto&client_id=302050872383242240&redirect_uri=https%3A%2F%2Fdisboard.org%2Fsite%2Foauth-callback)
 
