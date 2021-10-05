@@ -10,12 +10,10 @@ setInterval(async() => {
   let lastBump;
   let bumpChannel = client.channels.resolve(data.bumpChannel);
 		
- if(bumpChannel.topic) {
-   lastBump = await bumpChannel.messages.fetch(bumpChannel.topic.substr(22));
- }
+ if(bumpChannel.topic) lastBump = parseInt(bumpChannel.topic.replace("Last Bump: ",''));
 
 	if (lastBump && bumpChannel.topic && Date.now() - lastBump.createdTimestamp >= 7200000) {
-		bumpChannel.send('Bump Time!');
+		bumpChannel.send({content: 'Bump Time!'});
 		return bumpChannel.setTopic('');
 	}
 }, 10000)
